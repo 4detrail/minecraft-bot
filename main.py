@@ -14,7 +14,7 @@ SEEDLOAF_EMAIL = "yigittr1922@gmail.com"  # SeedLoaf emailin
 SEEDLOAF_PASSWORD = "201421yt"             # SeedLoaf şifren
 SERVER_ID = "dbacbfe3-fdae-4c96-aab0-39a7f8610e80"  # Sunucu ID'n
 
-DISCORD_BOT_TOKEN = "MTQ5NjU5NDI1NjMxODU2NjU0MA.GKYdRQ.jSGr1C8FjWKI9ruvBELvHXXhTxRn9D1CevHnP8"      # Discord Bot Token
+DISCORD_BOT_TOKEN = ""      # Discord Bot Token
 DISCORD_CHANNEL_ID = 1469371305017999421       # Bildirim gönderilecek kanal ID
 
 # ======================= GLOBAL DEĞİŞKENLER =======================
