@@ -10,12 +10,12 @@ import asyncio
 from datetime import datetime
 
 # ======================= KONFİGÜRASYON =======================
-SEEDLOAF_EMAIL = "SENIN_EMAILIN@example.com"  # SeedLoaf emailin
-SEEDLOAF_PASSWORD = "SENIN_SIFREN"             # SeedLoaf şifren
+SEEDLOAF_EMAIL = "yigittr1922@gmail.com"  # SeedLoaf emailin
+SEEDLOAF_PASSWORD = "201421yt"             # SeedLoaf şifren
 SERVER_ID = "dbacbfe3-fdae-4c96-aab0-39a7f8610e80"  # Sunucu ID'n
 
-DISCORD_BOT_TOKEN = "DISCORD_BOT_TOKENIN"      # Discord Bot Token
-DISCORD_CHANNEL_ID = 123456789012345678       # Bildirim gönderilecek kanal ID
+DISCORD_BOT_TOKEN = "MTQ5NjU5NDI1NjMxODU2NjU0MA.GKYdRQ.jSGr1C8FjWKI9ruvBELvHXXhTxRn9D1CevHnP8"      # Discord Bot Token
+DISCORD_CHANNEL_ID = 1469371305017999421       # Bildirim gönderilecek kanal ID
 
 # ======================= GLOBAL DEĞİŞKENLER =======================
 session = requests.Session()
